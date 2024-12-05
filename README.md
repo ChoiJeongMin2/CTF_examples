@@ -1,9 +1,4 @@
-███╗   ███╗ ██████╗ ███████╗███████╗
-████╗ ████║██╔═══██╗██╔════╝██╔════╝
-██╔████╔██║██║   ██║███████╗███████╗
-██║╚██╔╝██║██║   ██║╚════██║╚════██║
-██║ ╚═╝ ██║╚██████╔╝███████║███████║
-╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+
 
 This challenge involves a C program that contains a Buffer Overflow (BOF) Vulnerability. The task is to exploit this vulnerability to gain shell access using the following methods:
 
