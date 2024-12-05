@@ -1,0 +1,1 @@
+VIN을 읽는 request 코드를 작성하세요. (단 11bit 중 can id와 data 부분만 포함해서 작성.)
